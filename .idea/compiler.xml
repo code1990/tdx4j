@@ -9,8 +9,8 @@
         <module name="tdx4j" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="tdx4j" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="tdx4j" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
